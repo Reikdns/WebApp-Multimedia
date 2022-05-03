@@ -1,0 +1,102 @@
+﻿#LoginWindow {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    border: 2px solid rgb(229, 127, 54); 
+}
+#CajaPrincipal{
+    margin-top: 6%;
+}
+
+#logo {
+    height: 160px;
+    width: 250px;
+    margin: auto
+}
+
+#Credenciales{
+    margin: 10px 40px;
+}
+
+#UserPhase{
+    width: 416px
+}
+
+#UserInput{
+    text-align:center;
+    margin:auto;
+}
+
+#UserText{
+    margin-left: 16.5%
+}
+
+#PassPhase {
+    width: 416px
+}
+
+#PassInput {
+    text-align: center;
+    margin: auto;
+}
+
+#PassText {
+    margin-left: 16.5%
+}
+
+.enterButton {
+    margin: auto;
+    width: 67px;
+    background-color: rgb(229, 127, 54);
+}
+
+#registerLink{
+    width: 270px;
+    margin: auto;
+}
+
+#CajaPrincipal2 {
+    margin-top: 6%;
+}
+
+#RegisterWindow {
+    height: 505px;
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    border: 2px solid rgb(229, 127, 54);
+}
+
+#RegisterTittleText{
+    text-align:center;
+}
+
+#tableDiv{
+    height: 400px
+}
+
+#table{
+    width:max-content;
+    height:max-content;
+}
+
+#columnOne {
+    width: 250px;
+    height: 345px;
+    text-align: center;
+    border-right: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: rgb(229, 127, 54);
+}
+
+#columnTwo {
+    width: 250px;
+    height: 345px;
+    text-align: center;
+    border-left: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: rgb(229, 127, 54);
+}
